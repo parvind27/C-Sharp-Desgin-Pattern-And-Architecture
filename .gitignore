@@ -4,3 +4,15 @@
 
 /SingletonDesginPattern/.vs/SingletonDesginPattern
 /SingletonDesginPattern/SingletonDesginPattern/obj
+/.vs
+/AbstractFactory/bin/Debug/net6.0
+/AbstractFactory/obj/Debug
+/AbstractFactory/obj
+/Adapter/bin/Debug/net6.0
+/Adapter/obj
+/Bridge/bin/Debug/net6.0
+/Bridge/obj
+/Builder/bin/Debug/net6.0
+/Builder/obj
+/ChainOfResponsibility/bin/Debug/net6.0
+/ChainOfResponsibility/obj
